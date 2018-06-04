@@ -27,7 +27,7 @@
       ]
     }
   },
-  "electronVersion": "1.4.13",
+  "electronVersion": "2.0.2",
   "dependencies": {
     "electron-config": "^1.0.0"
   }
