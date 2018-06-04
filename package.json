@@ -29,6 +29,8 @@
   },
   "electronVersion": "2.0.2",
   "dependencies": {
-    "electron-config": "^1.0.0"
+    "electron": "2.0.2",
+    "electron-config": "1.0.0",
+    "electron-packager": "12.1.0"
   }
 }
